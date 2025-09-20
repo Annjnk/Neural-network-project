@@ -1,4 +1,4 @@
-# SCNS
+# NNS
 
 This is a local copy of the [SCNS](https://github.com/Annjnk/scns) project, configured to run on Apple Silicon (M1/M2) Macs.
 
